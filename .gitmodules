@@ -1,0 +1,4 @@
+[submodule "risktactical"]
+	path = risktactical
+	url = git@git.vauxoo.com:vauxoo/risktactical.git
+	branch = 18.0
